@@ -1,0 +1,100 @@
+James
+15
+Oak Grove High
+Calculus
+Star Wars
+Silicon Valley
+Video Games
+Software Engineer
+Pizza
+Good Manners
+Susan
+16
+Ocean View High
+Geometry
+The Matrix
+Sherlock
+Badminton
+Architect
+Fries
+Problem-solving
+John
+13
+Providence Academy
+Physics
+Back To The Future
+Breaking Bad
+Soccer
+Athlete
+Salad
+Leadership
+Lisa
+14
+Ocean View High
+English
+The Dark Knight
+Sherlock
+Reading
+Writer
+Ice Cream
+Perseverance
+Thomas
+15
+Oak Grove High
+Biology
+The Matrix
+The Big Bang Theory
+Playing Music
+Doctor
+Salad
+Flexibility
+Nancy
+15
+Providence Academy
+Chemistry
+Back To The Future
+Silicon Valley
+Running
+Mechanical Engineer
+Burger
+Problem-solving
+Paul
+14
+Ocean View High
+Chemistry
+Star Wars
+Friends
+Exercising
+Doctor
+Pizza
+Punctuality
+Carol
+16
+Providence Academy
+Physics
+Harry Potter
+The Big Bang Theory
+Volunteering
+Lawyer
+Fries
+Perseverance
+David
+17
+Oak Grove High
+Biology
+Harry Potter
+Sherlock
+Reading
+Doctor
+Taco
+Leadership
+Jennifer
+16
+Ocean View High
+History
+The Lord Of The Rings
+Breaking Bad
+Running
+Teacher
+Sushi
+Good Manners
