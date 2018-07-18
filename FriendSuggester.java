@@ -11,7 +11,7 @@ import java.util.Scanner;
  * about any matches from a fictitious group of
  * people.
  */
-public class FriendFinder {
+public class FriendSuggester {
     private static ArrayList<Person> matches = new ArrayList<>();//Any people that have matches with the user
 
     /**
